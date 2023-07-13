@@ -9,8 +9,8 @@
 const express = require('express');
 
 // Constants
-const PORT = 3700;
-const HOST = '127.0.0.1';
+const PORT = 8080;
+const HOST = '0.0.0.0';
 const OS = require('os');
 const ENV = 'DEV';
 
